@@ -22,7 +22,7 @@ pip install notebook
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Arabic-Sign-Language-Recognition-Mobilenet.git
+git clone https://github.com/ganayasser/Arabic-Sign-Language-Recognition-Mobilenet.git
 cd Arabic-Sign-Language-Recognition-Mobilenet
 ```
 3. Install the required dependencies using the requirements.txt file:
