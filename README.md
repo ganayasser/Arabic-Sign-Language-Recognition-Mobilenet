@@ -1,5 +1,5 @@
 # Arabic-Sign-Language-Recognition-Mobilenet
-### This project utilizes the MobileNet model to recognize and classify Arabic Sign Language (ARSL) from images.
+###This project utilizes the MobileNet model to recognize and classify Arabic Sign Language (ARSL) from images.
 ## 📁 About Dataset
 
 - **Arabic_Alphabets_Sign_Language_Dataset/**: Contains images of Arabic sign language alphabets for classification.
